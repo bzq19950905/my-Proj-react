@@ -1,0 +1,113 @@
+.shop_list_child {
+  width: 96%;
+  margin-left: 2%;
+  height: 1.7rem;
+  margin-bottom: .1rem;
+  display: flex;
+  position: relative;
+  border-bottom: 1px solid #ccc;
+}
+
+.shop_left {
+  width: .4rem;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.shop_center {
+  flex: 1;
+  display: flex;
+}
+
+.shop_center dt {
+  width: 1.6rem;
+  height: 100%;
+}
+
+.shop_center dt img {
+  width: 100%;
+  height: 100%;
+}
+
+.shop_center dd {
+  flex: 1;
+  padding-top: .2rem;
+}
+
+.shop_center dd h1 {
+  min-height: .5rem;
+  font-size: .22rem;
+  font-weight: 600;
+}
+
+.shop_center dd aside {
+  padding-right: .6rem;
+  display: flex;
+  line-height: 2;
+  flex-direction: column;
+}
+
+.shop_center dd aside span {
+  color: #F45752;
+  font-weight: 700;
+}
+
+.shop_center dd aside span em {
+  font-size: .22rem;
+  font-weight: 700;
+  margin-left: .1rem;
+}
+
+.shop_center dd aside b {
+  margin-left: .1rem;
+}
+
+.shop_right {
+  position: absolute;
+  right: 0;
+  bottom: .2rem;
+  width: 1.6rem;
+  line-height: 2;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.shop_right button {
+  height: .4rem;
+}
+
+.shop_right p {
+  font-weight: 800;
+}
+
+.pic_footer {
+  width: 100%;
+  height: .6rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 .2rem;
+}
+
+.pic_footer h1 {
+  color: #FF852A;
+  font-weight: 800;
+  font-size: .18rem;
+}
+
+.pic_footer h1 span {
+  font-size: .26rem;
+}
+
+.pic_footer button {
+  text-align: center;
+  line-height: 2;
+  background: #F45752;
+  border: 0;
+  color: #fff;
+  font-size: .18rem;
+  font-weight: 800;
+}

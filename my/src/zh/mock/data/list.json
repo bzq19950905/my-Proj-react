@@ -1,0 +1,1860 @@
+{
+    "actinfo_list": [],
+    "api_tab_types": [
+        {
+            "is_selected": true,
+            "moduleName": "default",
+            "sub_tabs": [
+                {
+                    "is_selected": true,
+                    "moduleName": "default",
+                    "tab_name": "综合",
+                    "tab_pos": 0,
+                    "type": "s"
+                },
+                {
+                    "head_name": "价格",
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "tab_name": "价格升序",
+                    "tab_pos": 1,
+                    "type": "p"
+                },
+                {
+                    "head_name": "价格",
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "tab_name": "价格降序",
+                    "tab_pos": 2,
+                    "type": "pd"
+                }
+            ],
+            "tab_pos": 0
+        },
+        {
+            "is_selected": false,
+            "moduleName": "default",
+            "sub_tabs": [
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "param": "",
+                    "tab_name": "销量",
+                    "tab_pos": 0,
+                    "type": "d"
+                }
+            ],
+            "tab_pos": 1
+        },
+        {
+            "is_selected": false,
+            "moduleName": "default",
+            "sub_tabs": [
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "param": "",
+                    "tab_name": "逛啊",
+                    "tab_pos": 0,
+                    "type": "funny"
+                }
+            ],
+            "sub_tabsx": [
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "tab_name": "综合",
+                    "tab_pos": 0
+                },
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "param": "actKeys=list",
+                    "tab_name": "清单",
+                    "tab_pos": 1
+                },
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "param": "actKeys=ugc",
+                    "tab_name": "尖货",
+                    "tab_pos": 2
+                },
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "param": "actTags=822",
+                    "tab_name": "试用",
+                    "tab_pos": 3
+                }
+            ],
+            "tab_pos": 3
+        },
+        {
+            "is_selected": false,
+            "moduleName": "default",
+            "sub_tabs": [
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "param": "",
+                    "tab_name": "店铺",
+                    "tab_pos": 0,
+                    "type": "shop"
+                }
+            ],
+            "tab_pos": 4
+        }
+    ],
+    "atp": "rn=bccc211d3c14c99f449be55444f68468&q=%CB%E1%C4%CC%BB%FA&bid=3&uid=%255Cu6DE1%255Cu6DE1%255Cu7684%255Cu60F3520&catid=54138001&prop=&sort=s&disp=&filter=&loc=&n=20&page=1&v=mall_1.0&vmarket=0&machineid=6ccf1f0862b86f3087fdb6a0b42301e1&tmalltrackid=&nav=&navlog=&rewq=%CB%E1%C4%CC%BB%FA&rewcatid=54312973&page_type=&stats=qp:1|cat-qp:2|brand:1|brand-qp:1|prop:1|pricemodel:fcity|F.itag:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0|querytype:8|querytype:256|skuahead:2|spuPage:1|spusort:1|app:tmallsearchquery|industryId:158|industryId:161|industryId:203|industryId:299|industryId:455|industryId:533|industryId:534|industryId:537|industryId:551|industryId:559|industryId:611|GongYingLianDists%3A0|shuffle_greedyGQ%3Adummynick%7C000%2C000%2C000%2C000%2C000%2C000%2C000%2C000%2C000%2C000%2C000%2C000%2C000%2C000%2C000%2C000%2C000%2C000%2C000%2C000%7C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%7C1%7Crandom|tm_us%3A|user_rl_state%3A1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&filter_new=sort:s|post_fee:0|support_cod:0|manyPoints:0|wwonline:0|miaosha:0|isCombo:0|vip:0|pic_detail:0|floc:0|fprice:0|new:0|filter_mj:0&from=&active=1&wq=&suggest=&search_type=search&abtest=&std_query=%CB%E1%C4%CC%BB%FA&top_query=&direct_rc=54138001&userid=&cna=v55sEtuyZRoCAT2U8oxvCUml&",
+    "bi_info": {
+        "at_bucketid": "sbucket_3",
+        "abtest": "3",
+        "at_rn": "bccc211d3c14c99f449be55444f68468",
+        "WapVersion": "aXBob25l",
+        "at_vmarket": "0",
+        "at_type": "search",
+        "at_mall_pro_re": "115",
+        "userid": "",
+        "at_cat": "54312973"
+    },
+    "brand_list": [
+        {
+            "brand_id": 31358,
+            "brand_name": "Bear/小熊",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1gjAJuCBYBeNjy0FeXXbnmFXa",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 30850,
+            "brand_name": "Joyoung/九阳",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1pFZOjlyWBuNkSmFPXXXguVXa",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 280608837,
+            "brand_name": "MORPHY RICHARDS/摩飞电器",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1n7suIVXXXXaqapXXSutbFXXX.jpg",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 16929523,
+            "brand_name": "Yoice/优益",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/i2/T1_BWfXaljXXb1upjX.jpg",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 3561667,
+            "brand_name": "WMF",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1GSYNJpXXXXXkXFXXSutbFXXX.jpg",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 3928394,
+            "brand_name": "severin",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1KpKURFXXXXaoaXXXXXXXXXXX",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 34158836,
+            "brand_name": "Ariete/阿里亚特",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB15ICHRFXXXXbgaXXXXXXXXXXX",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 67152371,
+            "brand_name": "nathome/北欧欧慕",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1zEIORVXXXXboXXXXXXXXXXXX",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 2313356117,
+            "brand_name": "LIFE ELEMENT/生活元素",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1BbLMobZnBKNjSZFrXXaRLFXa",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 30654,
+            "brand_name": "Royalstar/荣事达",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1yuBcHVXXXXXxXFXXSutbFXXX.jpg",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 40267992,
+            "brand_name": "茶皇子",
+            "is_selected": false,
+            "logo": "",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 113773694,
+            "brand_name": "小浣熊",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1iaOflxWYBuNjy1zkXXXGGpXa",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 31916,
+            "brand_name": "Lock＆Lock/乐扣乐扣",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1eNhpqStYBeNjSspaXXaOOFXa",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 71367678,
+            "brand_name": "生活日记",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1Q3MSIVXXXXaEXpXXSutbFXXX.jpg",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 21210,
+            "brand_name": "AUX/奥克斯",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1TF.6RXXXXXbpXpXXXXXXXXXX",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 44648,
+            "brand_name": "Health care/一品康",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/i3/T1neaaXchXXXb1upjX.jpg",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 62041842,
+            "brand_name": "RW/容威",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1_H4iQXXXXXbJXXXXSutbFXXX.jpg",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 30658,
+            "brand_name": "Little Duck/小鸭",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1uwLnHVXXXXc2XXXXSutbFXXX.jpg",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 789880770,
+            "brand_name": "美益炖",
+            "is_selected": false,
+            "logo": "",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 31690,
+            "brand_name": "Eupa/灿坤",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1fW3xIVXXXXc5aXXXSutbFXXX.jpg",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 109127,
+            "brand_name": "多乐",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1C450NXXXXXXNXpXXSutbFXXX.jpg",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 3363110,
+            "brand_name": "IRIS/爱丽思",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1QdjUipOWBuNjy0FiXXXFxVXa",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 31696,
+            "brand_name": "Tonze/天际",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1zGYYnHSYBuNjSspiXXXNzpXa",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 31357,
+            "brand_name": "日创",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1335hSFXXXXXMaXXXXXXXXXXX",
+            "moduleName": "default"
+        },
+        {
+            "brand_id": 31350,
+            "brand_name": "Donlim/东菱",
+            "is_selected": false,
+            "logo": "//img.alicdn.com/bao/uploaded/TB1FzgaMVXXXXXgXFXXSutbFXXX.jpg",
+            "moduleName": "default"
+        }
+    ],
+    "cat": {
+        "moduleName": "default",
+        "selected_cat_path": [
+            {
+                "cat_id": 54312973,
+                "cat_name": "酸奶机",
+                "moduleName": "default"
+            }
+        ],
+        "sub_cat_list": []
+    },
+    "cat_list": [],
+    "chain_feedback": 0,
+    "cmBelowResult": {
+        "modules": [],
+        "version": "1"
+    },
+    "cm_above_segment": {
+        "conf": [],
+        "modules": [],
+        "version": "1.0"
+    },
+    "cm_below_segment": {
+        "conf": [],
+        "modules": [],
+        "version": "1.0"
+    },
+    "cm_srp": {
+        "modules": [],
+        "version": "1"
+    },
+    "cm_srp_above_result": {
+        "modules": [],
+        "version": "1"
+    },
+    "current_page": 1,
+    "custom_module": {
+        "conf": [],
+        "modules": [],
+        "version": "1.0"
+    },
+    "direct_info": {
+        "moduleName": "default",
+        "type": 0,
+        "value": "54312973"
+    },
+    "filter_module": [
+        {
+            "img": "",
+            "line": 2,
+            "name": "price",
+            "sort": 1,
+            "text": ""
+        },
+        {
+            "img": "",
+            "line": 4,
+            "name": "brand_list",
+            "sort": 2,
+            "text": ""
+        },
+        {
+            "img": "",
+            "line": 2,
+            "name": "cat",
+            "sort": 3,
+            "text": ""
+        },
+        {
+            "img": "",
+            "line": 2,
+            "name": "prop_list",
+            "sort": 4,
+            "text": ""
+        },
+        {
+            "img": "",
+            "line": 2,
+            "name": "worry_free_purchase",
+            "sort": 5,
+            "text": "天猫无忧购"
+        },
+        {
+            "img": "",
+            "line": 2,
+            "name": "shop_type",
+            "sort": 6,
+            "text": ""
+        },
+        {
+            "img": "",
+            "line": 2,
+            "name": "filterinfo_list",
+            "sort": 7,
+            "text": ""
+        },
+        {
+            "img": "",
+            "line": 0,
+            "name": "loc",
+            "sort": 8,
+            "text": ""
+        },
+        {
+            "img": "",
+            "line": 0,
+            "name": "userloc",
+            "sort": 9,
+            "text": ""
+        },
+        {
+            "img": "",
+            "line": 2,
+            "name": "size_preference",
+            "sort": 10,
+            "text": ""
+        }
+    ],
+    "filterinfo_list": [
+        {
+            "display_name": "花呗分期",
+            "filter_name": "auction_tag",
+            "filter_value": "21505",
+            "is_selected": false,
+            "moduleName": "default",
+            "showiPad": 0,
+            "textColor": ""
+        },
+        {
+            "display_name": "包邮",
+            "filter_name": "post_fee",
+            "filter_value": "-1",
+            "is_selected": false,
+            "moduleName": "default",
+            "showiPad": 0,
+            "textColor": ""
+        },
+        {
+            "display_name": "折扣",
+            "filter_name": "miaosha",
+            "filter_value": "1",
+            "is_selected": false,
+            "moduleName": "default",
+            "showiPad": 0,
+            "textColor": ""
+        },
+        {
+            "display_name": "搭配减价",
+            "filter_name": "combo",
+            "filter_value": "1",
+            "is_selected": false,
+            "moduleName": "default",
+            "showiPad": 0,
+            "textColor": ""
+        },
+        {
+            "display_name": "公益宝贝",
+            "filter_name": "auction_tag",
+            "filter_value": "120962",
+            "is_selected": false,
+            "moduleName": "default",
+            "showiPad": 0,
+            "textColor": ""
+        }
+    ],
+    "is_cspu": false,
+    "is_show_select_price_module": true,
+    "is_spuremark": true,
+    "item": [
+        {
+            "auction_tag": "385 843 1035 1163 1478 1483 1923 2049 2059 2178 2315 2562 3787 3974 4166 4491 4555 5323 5895 6603 7046 7883 8326 11083 11339 11467 12491 13707 13771 21442 21762 25282 25666 26626 28353 30337 30977 33793 37569 39233 39809 40897 47297 49218 49282 51585 51905 58626 64129 66241 67521 70402 70465 74369 74561 74753 82306 83074 84801 84865 87490 91201 95105 95745 95809 95873 97602 101762 103234 107522 107842 112386 116546 119298 137666 143746 166402 170946 172226 172866 174082 174146 174914 175490 184578 200002 202050 202434 207682 210754 211906 212546 214466 215106 218434 218626 220354 227074 227330 249090 249858 249922 253570 257794 273602 273666 277058 281666 100020326 100020411 800120411 1611 284290 139778 252482 1227 4619 84673 1867 255682 29889 114690 86402 2443 31617 37953 5451 6146 292674 19970 106306 1803 28930 31553 57026 51842 2507 51329 70401 113602 2242 6283 7371 2635 4811 18433 1282 31937 81538 30273 89665 36417 4934",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "5605",
+            "expressInfo": "",
+            "flowIcon": [
+                {
+                    "moduleName": "default",
+                    "type": "text",
+                    "value": {
+                        "backgroundColor": "#FFE7E7",
+                        "fontColor": "#FF0036",
+                        "height": 0,
+                        "moduleName": "default",
+                        "textValue": "只换不修",
+                        "width": 0
+                    }
+                }
+            ],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i7/TB1lddFRVXXXXc0XFXXR4X2.FXX_105603.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 544403299618,
+            "listIcon": [
+                {
+                    "$ref": "$.item[0].flowIcon[0]"
+                }
+            ],
+            "location": "广东 佛山",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "398.00",
+            "recommend_description": "",
+            "seller_id": "2282307539",
+            "seller_loc": "广东省 佛山市",
+            "shipping": -1,
+            "shop_id": "2282307539",
+            "shop_name": "morphyrichards哥登专卖",
+            "sku_id": "3280033876890",
+            "sold": "1572",
+            "spu_fst": "20161112",
+            "spu_id": 711930007,
+            "title": "MORPHY RICHARDS/摩飞电器 MR1009",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=544403299618&skuId=3280033876890",
+            "user_rate": {
+                "description_match": "495",
+                "description_match_gap": "57.47%",
+                "send_speed": "493",
+                "send_speed_gap": "57.68%",
+                "service_quality": "493",
+                "service_quality_gap": "56.16%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "385 843 1035 1163 1478 1483 1923 2049 2059 2315 3787 3974 4166 4491 4555 5323 5895 6603 7046 7431 7883 8326 11083 11339 11467 12491 13707 13771 21442 21762 21826 25282 28353 30977 31489 34305 36161 37569 39233 39553 39809 40897 47297 49218 49282 51585 51969 53121 58626 64129 66241 67521 70402 74369 74561 74753 82306 84801 84865 86081 87425 90369 91201 95745 95873 101762 112386 119298 120962 137666 143234 143746 150146 162690 166402 172226 172866 175490 184578 210754 211906 212546 218434 218498 218626 220354 225410 241218 246978 247170 248962 249090 249858 250178 253570 257794 257922 281666 288962 100020326 100020411 800120326 800120411 91777 1611 139778 1227 4619 84673 1867 29889 256130 114690 2443 37953 5451 292674 256386 1803 28930 57026 2507 70401 113602 2242 6283 7371 2635 91713 4811 1282 87361 30273 89665 36417",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "18033",
+            "expressInfo": "",
+            "flowIcon": [
+                {
+                    "moduleName": "default",
+                    "type": "text",
+                    "value": {
+                        "backgroundColor": "#FFE7E7",
+                        "fontColor": "#FF0036",
+                        "height": 0,
+                        "moduleName": "default",
+                        "textValue": "只换不修",
+                        "width": 0
+                    }
+                }
+            ],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i2/11668030237444079/T1aSwLXhXeXXXXXXXX_!!0-item_pic.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 520699935698,
+            "listIcon": [
+                {
+                    "$ref": "$.item[1].flowIcon[0]"
+                }
+            ],
+            "location": "浙江 温州",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "89.90",
+            "recommend_description": "",
+            "seller_id": "2587351960",
+            "seller_loc": "浙江 温州",
+            "shipping": -1,
+            "shop_id": "2587351960",
+            "shop_name": "九阳子都专卖店",
+            "sku_id": "3103290686773",
+            "sold": "5338",
+            "spu_fst": "20121015",
+            "spu_id": 208244105,
+            "title": "Joyoung/九阳 SN10L03A",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=520699935698&skuId=3103290686773",
+            "user_rate": {
+                "description_match": "492",
+                "description_match_gap": "36.91%",
+                "send_speed": "487",
+                "send_speed_gap": "27.37%",
+                "service_quality": "488",
+                "service_quality_gap": "28.87%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "843 1035 1163 1478 1483 1923 2049 2059 2315 3787 3974 4166 4422 4491 4555 5323 5895 6603 6785 7298 7431 7883 8326 8454 11083 11339 11467 12491 13707 13771 16961 18945 20481 21121 21697 21762 21826 22273 22337 25282 28353 30337 30401 30849 30977 31489 34305 35713 36161 37569 39233 39809 40897 47297 51585 51841 51969 64129 66241 67521 70402 70465 74369 74561 74753 82369 84801 84865 86081 87425 91201 91457 91841 95745 95809 95873 101762 107842 112386 119234 119298 166402 172226 175490 210754 212546 248962 249090 249858 249922 253570 257794 257922 281666 100020326 100020411 100020507 800120326 800120411 91777 1611 16513 139778 1227 4619 24385 84673 1867 255682 60929 29889 2443 85314 37953 5451 292674 256386 1803 28930 57026 2507 70401 113602 2242 6283 7371 2635 91713 4811 17537 18433 450 23745 1799 82241 87361 89665 36417",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "26150",
+            "expressInfo": "",
+            "flowIcon": [],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i4/TB1ejqnX1uSBuNjSsziYpTq8pXa_044827.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 565233275881,
+            "listIcon": [],
+            "location": "广东 佛山",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "69.00",
+            "recommend_description": "",
+            "seller_id": "1069640918",
+            "seller_loc": "广东 佛山",
+            "shipping": -1,
+            "shop_id": "1069640918",
+            "shop_name": "小熊哥登专卖店",
+            "sku_id": "3575343028989",
+            "sold": "1.1万",
+            "spu_fst": "20180225",
+            "spu_id": 931195799,
+            "title": "Bear/小熊 SNJ-C10H1",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=565233275881&skuId=3575343028989",
+            "user_rate": {
+                "description_match": "490",
+                "description_match_gap": "18.56%",
+                "send_speed": "486",
+                "send_speed_gap": "16.99%",
+                "service_quality": "486",
+                "service_quality_gap": "18.62%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "385 843 1035 1163 1478 1483 2049 2059 2315 3787 3974 4166 4422 4491 4555 5323 5895 6603 7298 7883 8326 11083 11339 11467 12491 13707 13771 21442 21762 21826 25282 26626 28353 39809 40897 47297 49218 49282 64129 66241 67521 70402 70465 74369 74433 82306 86081 87425 87490 91201 95745 95809 95873 101762 107842 112386 116546 119234 119298 120962 137666 143746 166402 175490 202434 210754 212546 218498 218626 241218 246978 248962 249090 249858 250306 253570 257922 281666 100020411 1611 139778 252482 1227 4619 84673 1867 2443 85314 5451 292674 256386 1803 57026 51842 2507 113602 6283 7371 2635 4811 450 81538 30273 89665 36417",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "4979",
+            "expressInfo": "",
+            "flowIcon": [
+                {
+                    "moduleName": "default",
+                    "type": "text",
+                    "value": {
+                        "backgroundColor": "#FFE7E7",
+                        "fontColor": "#FF0036",
+                        "height": 0,
+                        "moduleName": "default",
+                        "textValue": "只换不修",
+                        "width": 0
+                    }
+                }
+            ],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i3/TB1OPutPFXXXXX4XVXXMK2L8XXX_020952.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 552228661892,
+            "listIcon": [
+                {
+                    "$ref": "$.item[3].flowIcon[0]"
+                }
+            ],
+            "location": "上海",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "89.00",
+            "recommend_description": "",
+            "seller_id": "3311248475",
+            "seller_loc": "",
+            "shipping": -1,
+            "shop_id": "3311248475",
+            "shop_name": "小熊妙想专卖店",
+            "sku_id": "3682298971054",
+            "sold": "6275",
+            "spu_fst": "20170228",
+            "spu_id": 722915910,
+            "title": "Bear/小熊 SNJ-B10K1",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=552228661892&skuId=3682298971054",
+            "user_rate": {
+                "description_match": "492",
+                "description_match_gap": "30.23%",
+                "send_speed": "488",
+                "send_speed_gap": "38.47%",
+                "service_quality": "488",
+                "service_quality_gap": "32.59%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "385 843 1035 1163 1478 1483 1923 2049 2059 2315 3787 3974 4166 4422 4491 4555 5323 5895 6603 7298 7883 8326 11083 11339 11467 12491 13707 13771 21442 21505 21762 21826 22337 25282 26626 28353 30337 30401 30849 30977 31489 34305 35713 36097 36161 37569 39233 40897 47297 49218 49282 51585 51969 58626 66241 67521 70402 70465 74369 74561 82306 87425 87490 95105 101762 107522 107842 112386 119234 119298 137666 143746 150146 166402 172226 172866 175490 184578 202050 202434 212546 218434 220354 249858 250306 257666 257794 281666 288962 1611 139778 252482 1227 4619 84673 1867 255682 60929 29889 2443 85314 37953 5451 1803 57026 51842 2507 113602 2242 6283 7371 2635 4811 450 23745 82241 81538 30273 89665 36417",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "1523",
+            "expressInfo": "",
+            "flowIcon": [
+                {
+                    "moduleName": "default",
+                    "type": "text",
+                    "value": {
+                        "backgroundColor": "#FFE7E7",
+                        "fontColor": "#FF0036",
+                        "height": 0,
+                        "moduleName": "default",
+                        "textValue": "只换不修",
+                        "width": 0
+                    }
+                }
+            ],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i3/TB1nXXDIXXXXXXuXpXXHqkb.pXX_104354.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 520525703366,
+            "listIcon": [
+                {
+                    "$ref": "$.item[4].flowIcon[0]"
+                }
+            ],
+            "location": "北京",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "299.00",
+            "recommend_description": "",
+            "seller_id": "740969168",
+            "seller_loc": "北京 北京",
+            "shipping": -1,
+            "shop_id": "740969168",
+            "shop_name": "佳盼电器专营店",
+            "sku_id": "3102499882576",
+            "sold": "666",
+            "spu_fst": "20150617",
+            "spu_id": 337441350,
+            "title": "Bear/小熊 SNJ-A20T1",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=520525703366&skuId=3102499882576",
+            "user_rate": {
+                "description_match": "492",
+                "description_match_gap": "33.69%",
+                "send_speed": "488",
+                "send_speed_gap": "32.29%",
+                "service_quality": "488",
+                "service_quality_gap": "27.56%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "130 843 1035 1163 1478 1483 1923 2049 2059 2178 2315 2562 3394 3787 3974 4166 4491 4555 4801 5323 5895 5953 6603 6785 7046 7883 8326 11083 11339 11467 12491 13707 13771 13953 16321 16961 18945 20481 21442 21697 21762 21826 22273 22337 23105 25282 28353 30337 30401 30849 30977 31489 33217 33537 34305 35713 36161 37569 37633 39233 39809 40897 46914 49218 49282 51585 51841 51969 64129 66241 67521 70402 70465 73089 74369 74561 74753 82306 84801 84865 86081 91201 91457 91841 95105 95745 95809 95873 96001 97602 101762 103234 112386 116546 119234 119298 137666 143746 162690 166402 172226 174914 175490 184578 202050 202434 212546 214466 218434 218626 220354 225410 249090 249858 250178 253570 281666 100020411 800120326 800120411 61442 1611 16513 284290 139778 10818 1227 4619 24385 84673 1867 60929 29889 86402 2443 37953 5451 6146 292674 106306 95617 1803 57026 2507 51329 70401 113602 2242 6283 7371 2635 178754 4811 17537 270914 18433 23745 96513 22145 89665 36417",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "3865",
+            "expressInfo": "",
+            "flowIcon": [
+                {
+                    "moduleName": "default",
+                    "type": "text",
+                    "value": {
+                        "backgroundColor": "#FFE7E7",
+                        "fontColor": "#FF0036",
+                        "height": 0,
+                        "moduleName": "default",
+                        "textValue": "只换不修",
+                        "width": 0
+                    }
+                }
+            ],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i2/TB1jQKZKFXXXXXJXFXXs7h99pXX_040520.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 539690651712,
+            "listIcon": [
+                {
+                    "$ref": "$.item[5].flowIcon[0]"
+                }
+            ],
+            "location": "广东 广州",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "169.00",
+            "recommend_description": "",
+            "seller_id": "175592270",
+            "seller_loc": "广东 广州",
+            "shipping": -1,
+            "shop_id": "175592270",
+            "shop_name": "小熊电器官方旗舰店",
+            "sku_id": "3198422998809",
+            "sold": "1484",
+            "spu_fst": "20161006",
+            "spu_id": 648445311,
+            "title": "Bear/小熊 SNJ-A15U3",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=539690651712&skuId=3198422998809",
+            "user_rate": {
+                "description_match": "488",
+                "description_match_gap": "9.99%",
+                "send_speed": "488",
+                "send_speed_gap": "30.50%",
+                "service_quality": "486",
+                "service_quality_gap": "14.27%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "385 843 1035 1163 1478 1483 1923 2049 2059 2315 3787 3974 4166 4491 4555 5323 5895 6603 7046 7431 7883 8326 11083 11339 11467 12491 13707 13771 21442 21762 21826 25282 28353 30977 31489 34305 36161 37569 39233 39553 39809 40897 47297 51585 51969 53121 64129 66241 67521 70402 74369 74561 74753 82306 84801 84865 86081 87425 90369 91201 95745 95873 101762 112386 119298 137666 143746 162690 166402 172226 175490 200002 212546 225410 246978 248962 249090 249858 250178 253570 257794 257922 100020326 100020411 800120326 800120411 91777 1611 139778 1227 4619 84673 1867 255682 29889 2443 37953 5451 256386 1803 28930 57026 2507 70401 2242 6283 7371 2635 91713 4811 87361 30273 89665 36417",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "2200",
+            "expressInfo": "",
+            "flowIcon": [
+                {
+                    "moduleName": "default",
+                    "type": "text",
+                    "value": {
+                        "backgroundColor": "#FFE7E7",
+                        "fontColor": "#FF0036",
+                        "height": 0,
+                        "moduleName": "default",
+                        "textValue": "只换不修",
+                        "width": 0
+                    }
+                }
+            ],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i1/TB1AWyonBDH8KJjSszc.RYDTFXa_090939.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 564199560573,
+            "listIcon": [
+                {
+                    "$ref": "$.item[6].flowIcon[0]"
+                }
+            ],
+            "location": "浙江 温州",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "99.00",
+            "recommend_description": "",
+            "seller_id": "2587351960",
+            "seller_loc": "浙江 温州",
+            "shipping": -1,
+            "shop_id": "2587351960",
+            "shop_name": "九阳子都专卖店",
+            "sku_id": "3564664577477",
+            "sold": "909",
+            "spu_fst": "20180122",
+            "spu_id": 924277863,
+            "title": "Joyoung/九阳 SN-10E92",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=564199560573&skuId=3564664577477",
+            "user_rate": {
+                "description_match": "492",
+                "description_match_gap": "36.91%",
+                "send_speed": "487",
+                "send_speed_gap": "27.37%",
+                "service_quality": "488",
+                "service_quality_gap": "28.87%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "843 1035 1163 1478 1483 1923 2049 2059 2315 3787 3974 4166 4491 4555 5323 5895 6603 7431 7883 8326 11083 11339 11467 12491 13707 13771 21505 21762 21826 25282 26626 28353 30337 30593 30977 34305 36161 37569 39809 40897 49218 49282 51585 51969 53121 58626 66241 67521 70402 70465 74369 74561 74689 74753 82306 84801 84865 86081 87425 87490 90369 91201 95105 95745 95809 95873 101762 112386 119234 119298 120962 137666 150146 166402 172226 175490 202050 210754 212546 215106 218434 218498 218626 220354 241218 245698 246978 247170 248066 248962 249090 249858 250178 257794 100020326 100020411 800120326 800120411 6594 91777 1611 139778 252482 1227 4619 84673 1867 29889 2443 37953 5451 256386 1803 28930 57026 51842 2507 51329 70401 113602 2242 6283 7371 2635 178754 91713 4811 18433 87361 81538 30273 89665 36417",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "33027",
+            "expressInfo": "",
+            "flowIcon": [
+                {
+                    "moduleName": "default",
+                    "type": "text",
+                    "value": {
+                        "backgroundColor": "#FFE7E7",
+                        "fontColor": "#FF0036",
+                        "height": 0,
+                        "moduleName": "default",
+                        "textValue": "只换不修",
+                        "width": 0
+                    }
+                }
+            ],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i6/TB1WEzWnHSYBuNjSspfa13ZCpXa_111338.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 521057981401,
+            "listIcon": [
+                {
+                    "$ref": "$.item[7].flowIcon[0]"
+                }
+            ],
+            "location": "广东 中山",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "48.90",
+            "recommend_description": "",
+            "seller_id": "2449188705",
+            "seller_loc": "广东省 中山市",
+            "shipping": -1,
+            "shop_id": "2449188705",
+            "shop_name": "小浣熊美薇专卖店",
+            "sku_id": "3208667017268",
+            "sold": "1811",
+            "spu_fst": "20150804",
+            "spu_id": 346322121,
+            "title": "小浣熊 TW-303A",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=521057981401&skuId=3208667017268",
+            "user_rate": {
+                "description_match": "488",
+                "description_match_gap": "9.83%",
+                "send_speed": "482",
+                "send_speed_gap": "0.00%",
+                "service_quality": "483",
+                "service_quality_gap": "0.00%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "843 1035 1163 1478 1483 1923 2049 2059 2315 3787 3974 4166 4491 4555 5323 5895 6603 7431 7883 8326 11083 11339 11467 12491 13707 13771 21505 21762 21826 25282 26626 28353 30337 30593 30977 34305 36161 37569 39809 40897 51585 51969 53121 66241 67521 70402 70465 74369 74561 74689 74753 82306 84801 84865 86081 87425 87490 90369 91201 95105 95745 95809 95873 101762 107522 112386 116546 119234 119298 120962 137666 150146 166402 172226 175490 202050 210754 212546 215106 218434 218626 241218 245698 246978 247170 248066 248962 249090 249858 250178 257794 257922 281666 100020326 100020411 800120326 800120411 6594 91777 1611 139778 252482 1227 4619 84673 1867 29889 2443 37953 5451 292674 256386 1803 28930 57026 51842 2507 51329 70401 113602 2242 6283 7371 2635 178754 91713 4811 18433 87361 81538 30273 89665 36417",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "9559",
+            "expressInfo": "",
+            "flowIcon": [
+                {
+                    "moduleName": "default",
+                    "type": "text",
+                    "value": {
+                        "backgroundColor": "#FFE7E7",
+                        "fontColor": "#FF0036",
+                        "height": 0,
+                        "moduleName": "default",
+                        "textValue": "只换不修",
+                        "width": 0
+                    }
+                }
+            ],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i5/TB16M50KXXXXXabXpXX_X3m9pXX_042246.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 538648495937,
+            "listIcon": [
+                {
+                    "$ref": "$.item[8].flowIcon[0]"
+                }
+            ],
+            "location": "广东 中山",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "38.90",
+            "recommend_description": "",
+            "seller_id": "2449188705",
+            "seller_loc": "广东省 中山市",
+            "shipping": -1,
+            "shop_id": "2449188705",
+            "shop_name": "小浣熊美薇专卖店",
+            "sku_id": "3572461117619",
+            "sold": "2439",
+            "spu_fst": "20160606",
+            "spu_id": 609764291,
+            "title": "小浣熊 HM-305A",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=538648495937&skuId=3572461117619",
+            "user_rate": {
+                "description_match": "488",
+                "description_match_gap": "9.83%",
+                "send_speed": "482",
+                "send_speed_gap": "0.00%",
+                "service_quality": "483",
+                "service_quality_gap": "0.00%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "385 843 1035 1163 1478 1483 1923 2049 2059 2315 3787 3974 4166 4491 4555 5323 5895 6603 7883 8326 11083 11339 11467 12491 13707 13771 21442 21505 21762 21826 25282 28353 30337 30977 33793 37569 40897 47297 51585 51969 66241 67521 70402 70465 74369 74433 82306 101762 107842 119234 119298 120962 143746 166402 212546 248962 249858 250178 257794 257922 281666 288962 100020411 800120411 1611 57026 2507 51329 139778 28866 2242 6283 7371 1227 2635 4619 84673 4811 1867 29889 2443 82241 5451 256386 30273 89665 1803 36417",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "881",
+            "expressInfo": "",
+            "flowIcon": [],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i4/TB1yq7_XgsSMeJjSspev9177VXa_012257.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 560594885540,
+            "listIcon": [],
+            "location": "广东 广州",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "35.00",
+            "recommend_description": "",
+            "seller_id": "2058812935",
+            "seller_loc": "上海 上海",
+            "shipping": -1,
+            "shop_id": "2058812935",
+            "shop_name": "宇宏家用电器专营店",
+            "sku_id": "3671368115565",
+            "sold": "4864",
+            "spu_fst": "20170825",
+            "spu_id": 868554658,
+            "title": "Joyoung/九阳 SN-10J91",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=560594885540&skuId=3671368115565",
+            "user_rate": {
+                "description_match": "487",
+                "description_match_gap": "0.00%",
+                "send_speed": "482",
+                "send_speed_gap": "0.00%",
+                "service_quality": "480",
+                "service_quality_gap": "0.00%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "385 843 1035 1163 1478 1483 1923 2049 2059 2315 3787 3974 4166 4491 4555 5323 5895 6603 7431 7883 8326 11083 11339 11467 12491 13707 13771 16321 16961 20481 21442 21762 25282 28353 30337 30401 30849 30977 31489 34305 35713 36161 37569 39233 39809 40897 47297 51585 58626 65281 67521 70402 70465 74369 74561 74753 82306 84801 84865 86081 87425 90369 91201 101762 107522 107842 116546 119234 119298 137666 143746 172226 172866 174082 174146 175490 200002 210754 212546 218434 218626 248962 249858 250178 257794 257922 257986 281666 100020326 100020411 800120326 800120411 1611 284290 139778 28866 1227 4619 1867 18753 29889 2443 37953 5451 3393 1803 57026 2507 51329 70401 113602 2242 6283 7371 2635 178754 4811 87361 30273 89665 36417",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "58167",
+            "expressInfo": "",
+            "flowIcon": [
+                {
+                    "moduleName": "default",
+                    "type": "text",
+                    "value": {
+                        "backgroundColor": "#FFE7E7",
+                        "fontColor": "#FF0036",
+                        "height": 0,
+                        "moduleName": "default",
+                        "textValue": "只换不修",
+                        "width": 0
+                    }
+                }
+            ],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i3/TB1pShOntnJ8KJjSszdcXGxuFXa_123026.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 529017841079,
+            "listIcon": [
+                {
+                    "$ref": "$.item[10].flowIcon[0]"
+                }
+            ],
+            "location": "广东 中山",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "34.90",
+            "recommend_description": "",
+            "seller_id": "716824265",
+            "seller_loc": "广东 中山",
+            "shipping": -1,
+            "shop_id": "716824265",
+            "shop_name": "菲尚电器专营店",
+            "sku_id": "3552834221882",
+            "sold": "1386",
+            "spu_fst": "20160329",
+            "spu_id": 524894527,
+            "title": "RW/容威 XY-666",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=529017841079&skuId=3552834221882",
+            "user_rate": {
+                "description_match": "492",
+                "description_match_gap": "31.40%",
+                "send_speed": "488",
+                "send_speed_gap": "29.74%",
+                "service_quality": "488",
+                "service_quality_gap": "34.14%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "385 843 1035 1163 1478 1483 2049 2059 2315 3787 3974 4166 4491 4555 5323 5895 6603 7046 7883 8326 11083 11339 11467 12491 13707 13771 21442 21505 21762 25282 28353 28802 39809 40897 47297 49218 49282 58626 67521 70402 70465 74369 74561 74753 82306 84801 84865 86081 87425 91201 94145 95105 95745 95873 101762 104130 107522 107842 112386 116546 119234 119298 120962 143746 162690 172226 172866 175490 200002 202434 210754 212546 215106 218434 218498 218626 220354 225410 246978 247170 249858 250178 257794 257922 281666 100020326 100020411 800120411 1611 284290 139778 1227 4619 1867 2443 37953 5451 256386 1803 57026 2507 113602 2242 6283 7371 2635 4811 89665 36417",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "7008",
+            "expressInfo": "",
+            "flowIcon": [],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i4/2719668966/TB2Q9_3n9FjpuFjSszhXXaBuVXa_!!2719668966.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 550506628772,
+            "listIcon": [],
+            "location": "广东 佛山",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "99.00",
+            "recommend_description": "",
+            "seller_id": "3172216738",
+            "seller_loc": "",
+            "shipping": -1,
+            "shop_id": "3172216738",
+            "shop_name": "生活元素电器旗舰店",
+            "sku_id": "3935882966609",
+            "sold": "772",
+            "spu_fst": "20160331",
+            "spu_id": 849104327,
+            "title": "LIFE ELEMENT/生活元素 S2",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=550506628772&skuId=3935882966609",
+            "user_rate": {
+                "description_match": "492",
+                "description_match_gap": "32.13%",
+                "send_speed": "488",
+                "send_speed_gap": "30.21%",
+                "service_quality": "488",
+                "service_quality_gap": "26.62%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "843 1035 1163 1478 1483 1923 2049 2059 2315 3787 3974 4166 4491 4555 5323 5895 6603 7431 7883 8326 11083 11339 11467 12491 13707 13771 18945 20481 21442 21762 21826 25282 26626 28353 30337 30401 30849 30977 31489 34305 35713 36161 37569 39233 40897 51585 51969 53121 58626 67521 70402 70465 74369 74561 74753 84801 84865 86081 87425 87490 95105 95809 101762 112386 119234 119298 120962 137666 143746 166402 172226 172866 174082 175490 200002 202050 210754 211906 212546 218434 241218 247170 248962 249090 249858 249922 257794 257922 281666 285186 100020326 100020411 100020507 800120326 800120411 800120507 56130 1611 139778 28866 252482 1227 4619 53954 84673 1867 29889 3137 2443 37953 5451 1803 57026 51842 2507 70401 113602 2242 6283 7371 2635 178754 4811 18433 81538 30273 89665 36417",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "178563",
+            "expressInfo": "",
+            "flowIcon": [
+                {
+                    "moduleName": "default",
+                    "type": "text",
+                    "value": {
+                        "backgroundColor": "#FFE7E7",
+                        "fontColor": "#FF0036",
+                        "height": 0,
+                        "moduleName": "default",
+                        "textValue": "只换不修",
+                        "width": 0
+                    }
+                }
+            ],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i2/TB1YIFkiyMnBKNjSZFCaIp0KFXa_104500.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 19172762236,
+            "listIcon": [
+                {
+                    "$ref": "$.item[12].flowIcon[0]"
+                }
+            ],
+            "location": "浙江 温州",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "29.90",
+            "recommend_description": "",
+            "seller_id": "527298918",
+            "seller_loc": "安徽 合肥",
+            "shipping": -1,
+            "shop_id": "527298918",
+            "shop_name": "友邦电器专营",
+            "sku_id": "3555576305751",
+            "sold": "6471",
+            "spu_fst": "20110903",
+            "spu_id": 135998527,
+            "title": "Yoice/优益 MC-1011",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=19172762236&skuId=3555576305751",
+            "user_rate": {
+                "description_match": "488",
+                "description_match_gap": "3.23%",
+                "send_speed": "482",
+                "send_speed_gap": "0.00%",
+                "service_quality": "483",
+                "service_quality_gap": "0.00%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "843 1035 1163 1478 1483 2049 2059 2315 3787 3974 4166 4491 4555 5323 6603 7883 11083 11339 11467 12491 13707 13771 21442 21762 25282 28353 30337 30977 34305 35713 36161 37569 40897 47297 51585 65281 67521 70402 74369 74561 74689 74753 82306 84801 84865 86081 87425 90433 95105 101762 107522 107842 119234 119298 120962 137666 143234 143746 202050 210754 248962 249858 250306 257794 257922 281666 1611 57026 2507 70401 113602 139778 28866 6283 7371 1227 2635 4619 4811 1867 29889 2443 5451 89665 1803 36417",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "10029",
+            "expressInfo": "",
+            "flowIcon": [
+                {
+                    "moduleName": "default",
+                    "type": "text",
+                    "value": {
+                        "backgroundColor": "#FFE7E7",
+                        "fontColor": "#FF0036",
+                        "height": 0,
+                        "moduleName": "default",
+                        "textValue": "只换不修",
+                        "width": 0
+                    }
+                }
+            ],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i1/TB19GbbgTlYBeNjSszc0QfwhFXa_030603.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 566665742079,
+            "listIcon": [
+                {
+                    "$ref": "$.item[13].flowIcon[0]"
+                }
+            ],
+            "location": "广东 中山",
+            "nick": "领锐电器专营店",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "19.90",
+            "recommend_description": "",
+            "seller_id": "2139551956",
+            "seller_loc": "广东省 中山市",
+            "shipping": -1,
+            "shop_id": "2139551956",
+            "shop_name": "领锐电器专营店",
+            "sku_id": "3765733490836",
+            "sold": "1.0万",
+            "spu_fst": "20180327",
+            "spu_id": 946481339,
+            "title": "茶皇子 PA-12A",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=566665742079&skuId=3765733490836",
+            "user_rate": {
+                "description_match": "488",
+                "description_match_gap": "0.00%",
+                "send_speed": "480",
+                "send_speed_gap": "0.00%",
+                "service_quality": "482",
+                "service_quality_gap": "0.00%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "385 843 1035 1163 1478 1483 2049 2059 2315 3459 3523 3787 3974 4166 4491 4555 5323 6603 7883 8454 11083 11339 11467 12491 13186 13707 13771 21442 21762 22977 25282 28353 28802 37569 37633 39233 40897 49218 49282 51585 51841 51969 64129 66241 67521 68865 68930 71682 74369 74561 74753 82306 82369 83202 84801 84865 86081 91201 95745 95809 95873 101762 101890 104002 109954 110146 112386 116546 119234 119298 143746 150146 162434 164866 166402 172866 174914 175490 177090 177154 184578 196674 207682 212546 214466 215106 218434 218562 218626 220354 227458 249090 249858 249922 250178 257794 281666 287810 100020326 100020411 800120411 18497 1611 284290 139778 1227 4619 84673 1867 2443 37953 5451 6146 41922 1803 57026 2507 51329 70401 113602 6283 7371 2635 4811 118850 175554 72321 30273 52289 252418 89665 36417 7686",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "3066",
+            "expressInfo": "",
+            "flowIcon": [],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i1/TB1xNk3QpXXXXaFapXXln788FXX_031125.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 526929870502,
+            "listIcon": [],
+            "location": "浙江 宁波",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "199.00",
+            "recommend_description": "",
+            "seller_id": "2774585787",
+            "seller_loc": "香港 九龙",
+            "shipping": -1,
+            "shop_id": "2774585787",
+            "shop_name": "SEVERIN海外旗舰店",
+            "sku_id": "3195381225539",
+            "sold": "288",
+            "spu_fst": "20140113",
+            "spu_id": 287705166,
+            "title": "severin JG3516",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=526929870502&skuId=3195381225539",
+            "user_rate": {
+                "description_match": "490",
+                "description_match_gap": "18.31%",
+                "send_speed": "491",
+                "send_speed_gap": "37.87%",
+                "service_quality": "487",
+                "service_quality_gap": "21.19%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "385 843 1035 1163 1478 1483 2049 2059 2315 3787 3974 4166 4491 4555 5323 5895 6603 7883 8326 11083 11339 11467 12491 13707 13771 21442 21762 25282 28353 40897 47297 49218 49282 51585 51905 67521 70402 70465 74369 74433 82306 101762 107522 112386 119234 119298 137666 143746 150146 172866 215106 218562 218626 249858 250178 257794 28930 1611 57026 2507 113602 139778 6283 7371 1227 2635 4619 4811 1867 1282 114690 2443 5451 30273 89665 1803 36417",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "2579",
+            "expressInfo": "",
+            "flowIcon": [
+                {
+                    "moduleName": "default",
+                    "type": "text",
+                    "value": {
+                        "backgroundColor": "#FFE7E7",
+                        "fontColor": "#FF0036",
+                        "height": 0,
+                        "moduleName": "default",
+                        "textValue": "只换不修",
+                        "width": 0
+                    }
+                }
+            ],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i5/TB1UH0RLpXXXXbmXFXXcWWn9pXX_040638.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 536964138207,
+            "listIcon": [
+                {
+                    "$ref": "$.item[15].flowIcon[0]"
+                }
+            ],
+            "location": "广东 广州",
+            "nick": "多乐联动专卖店",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "168.00",
+            "recommend_description": "",
+            "seller_id": "2948725796",
+            "seller_loc": "广东 广州",
+            "shipping": -1,
+            "shop_id": "2948725796",
+            "shop_name": "多乐联动专卖店",
+            "sku_id": "3206063397784",
+            "sold": "152",
+            "spu_fst": "20160812",
+            "spu_id": 692756253,
+            "title": "多乐 DL-4005",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=536964138207&skuId=3206063397784",
+            "user_rate": {
+                "description_match": "491",
+                "description_match_gap": "23.70%",
+                "send_speed": "484",
+                "send_speed_gap": "14.16%",
+                "service_quality": "484",
+                "service_quality_gap": "9.65%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "385 843 1035 1163 1478 1483 1923 2049 2059 2315 3787 3974 4166 4491 4555 5323 5895 6603 7431 7883 8326 11083 11339 11467 12491 13707 13771 21442 21762 21826 25282 26626 28353 28802 37569 39233 39809 40897 47297 49218 49282 51585 51969 58626 67521 70402 70465 74369 74561 74689 74753 82306 84801 84865 86081 87425 91201 95745 95873 101762 107522 107842 112386 119234 119298 120962 143746 150146 172226 175490 202434 212546 213698 218498 241218 246978 247170 248066 249858 250178 257794 257986 100020326 100020411 800120326 800120411 56130 1611 139778 1227 4619 1867 29889 2443 53569 37953 5451 1803 57026 51842 2507 70401 113602 2242 6283 7371 2635 4811 270914 18433 82241 81538 30273 89665 36417",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "1024",
+            "expressInfo": "",
+            "flowIcon": [],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i7/TB1cRS4FVXXXXXVXFXXgR6Z9VXX_050627.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 40346766532,
+            "listIcon": [],
+            "location": "广东 广州",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "59.00",
+            "recommend_description": "",
+            "seller_id": "2099824292",
+            "seller_loc": "广东省 佛山市",
+            "shipping": -1,
+            "shop_id": "2099824292",
+            "shop_name": "生活日记旗舰店",
+            "sku_id": "64046627313",
+            "sold": "502",
+            "spu_fst": "20140730",
+            "spu_id": 287935727,
+            "title": "生活日记 SNJ-M9",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=40346766532&skuId=64046627313",
+            "user_rate": {
+                "description_match": "490",
+                "description_match_gap": "12.83%",
+                "send_speed": "484",
+                "send_speed_gap": "6.88%",
+                "service_quality": "484",
+                "service_quality_gap": "5.95%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "385 843 1035 1163 1478 1483 2049 2059 2315 3787 3974 4166 4491 4555 5323 6603 7883 11083 11339 11467 12491 13707 13771 21762 25282 28802 33217 39809 40897 64129 70402 82306 95745 95873 101762 112386 166402 174914 175490 207682 212546 249090 249858 250178 257922 100020411 800120411 1611 57026 2507 139778 6283 7371 1227 2635 4619 4811 1867 1282 114690 2443 102850 5451 19970 22145 1803 4934",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "99",
+            "expressInfo": "",
+            "flowIcon": [],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i8/TB1Opa7SXXXXXbRXpXX1gjV8VXX_033145.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 569133099334,
+            "listIcon": [],
+            "location": "上海",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "499.00",
+            "recommend_description": "",
+            "seller_id": "3919713260",
+            "seller_loc": "",
+            "shipping": -1,
+            "shop_id": "3919713260",
+            "shop_name": "wmf电器旗舰店",
+            "sku_id": "3812798003783",
+            "sold": "61",
+            "spu_fst": "20170709",
+            "spu_id": 859509431,
+            "title": "WMF 0415209911",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=569133099334&skuId=3812798003783",
+            "user_rate": {
+                "description_match": "492",
+                "description_match_gap": "36.45%",
+                "send_speed": "492",
+                "send_speed_gap": "56.51%",
+                "service_quality": "492",
+                "service_quality_gap": "50.36%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "385 843 1035 1163 1478 1483 2049 2059 2315 3459 3523 3787 3974 4166 4491 4555 5323 6603 7883 8454 11083 11339 11467 12491 13186 13707 13771 21762 22977 25282 28353 28802 37569 37633 39233 40897 49218 51585 51841 51969 64129 66241 67521 68865 68930 71682 74369 74561 74753 82306 82369 83202 84801 84865 86081 91201 95745 95809 95873 101762 109954 110146 112386 119234 119298 164738 166402 172226 174914 175490 177090 177154 196674 202434 207682 212546 214466 215106 218434 218626 220354 227458 249090 249858 250178 257794 287810 100020326 100020411 800120411 18497 1611 284290 1227 4619 84673 1867 114690 2443 37953 5451 6146 41922 1803 57026 2507 51329 70401 2242 6283 7371 2635 4811 1282 118850 175554 72321 30273 52289 89665 36417 7686",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "525",
+            "expressInfo": "",
+            "flowIcon": [],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i1/2774585787/TB27ChNe5C9MuFjSZFoXXbUzFXa_!!2774585787.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 547469828418,
+            "listIcon": [],
+            "location": "德国",
+            "nick": "severin海外旗舰店",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "359.00",
+            "recommend_description": "",
+            "seller_id": "2774585787",
+            "seller_loc": "香港 九龙",
+            "shipping": -1,
+            "shop_id": "2774585787",
+            "shop_name": "SEVERIN海外旗舰店",
+            "sku_id": "3316076936584",
+            "sold": "61",
+            "spu_fst": "20170328",
+            "spu_id": 838098279,
+            "title": "severin JG3525",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=547469828418&skuId=3316076936584",
+            "user_rate": {
+                "description_match": "490",
+                "description_match_gap": "18.31%",
+                "send_speed": "491",
+                "send_speed_gap": "37.87%",
+                "service_quality": "487",
+                "service_quality_gap": "21.19%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        },
+        {
+            "auction_tag": "385 843 1035 1163 1478 1483 1923 2049 2059 2315 3787 3974 4166 4491 4555 5323 6603 7883 11083 11339 11467 12491 13707 13771 16321 21121 21762 21826 25282 28353 28802 30337 30977 33793 37569 40897 49218 49282 51585 51969 58626 67521 70402 70465 74369 74561 74753 84801 84865 87425 90433 95745 95873 101762 112386 119298 150146 175490 249858 250178 257666 257794 1611 57026 2507 113602 139778 2242 6283 7371 1227 2635 4619 4811 1867 3265 29889 2443 53569 5451 89665 1803 36417",
+            "auction_tags_info": [],
+            "auction_tags_info_flow": [],
+            "best_size": "",
+            "bucket_id": 3,
+            "cat_id": 50002535,
+            "comment_num": "136",
+            "expressInfo": "",
+            "flowIcon": [],
+            "gid": "",
+            "i2i_similar": false,
+            "img": "//img.alicdn.com/bao/uploaded/i7/TB1nMATRpXXXXc6XFXXHKUA9FXX_045313.jpg",
+            "is_cod": 0,
+            "is_promotion": true,
+            "item_id": 539956980167,
+            "listIcon": [],
+            "location": "广东 佛山",
+            "original_price": "",
+            "post_fee": "0.00",
+            "price": "99.00",
+            "recommend_description": "",
+            "seller_id": "731713176",
+            "seller_loc": "广东 佛山",
+            "shipping": -1,
+            "shop_id": "731713176",
+            "shop_name": "康丽旗舰店",
+            "sku_id": "3384154636962",
+            "sold": "78",
+            "spu_fst": "20161012",
+            "spu_id": 706766146,
+            "title": "GONNIE/康丽 CF-9686",
+            "titlePreIconFlowList": [],
+            "titlePreIconList": [],
+            "url": "//detail.tmall.com/item.htm?id=539956980167&skuId=3384154636962",
+            "user_rate": {
+                "description_match": "488",
+                "description_match_gap": "2.68%",
+                "send_speed": "483",
+                "send_speed_gap": "3.75%",
+                "service_quality": "484",
+                "service_quality_gap": "2.58%",
+                "show_flag": 0
+            },
+            "vimg": "",
+            "wm_price": ""
+        }
+    ],
+    "itemList": {
+        "modules": []
+    },
+    "key_word": "酸奶机",
+    "loc": {
+        "is_exist": true,
+        "moduleName": "default"
+    },
+    "local_cache": {},
+    "minisites": [],
+    "navhot_list": [],
+    "page_size": 20,
+    "parameters": {
+        "bucket_id": 3,
+        "cat": "2",
+        "end_dsr": 0,
+        "extraParams": {},
+        "ip_addr": "11.131.225.216",
+        "is_debug": false,
+        "loc": "",
+        "page_no": 0,
+        "page_size": 0,
+        "q": "酸奶机",
+        "q_by_gbk": "%CB%E1%C4%CC%BB%FA",
+        "screen": "scroll:1519*5812-client:1519*759-offset:1519*5812-screen:1536*864",
+        "shop_type": 0,
+        "size_info": "",
+        "size_role": "",
+        "sort": "s",
+        "start_dsr": 0,
+        "style": "list"
+    },
+    "poi": {
+        "moduleName": "default",
+        "service_show_type": 0
+    },
+    "price": {
+        "moduleName": "default"
+    },
+    "pricerange_list": [],
+    "prompt_results": {
+        "new_text_type": 0,
+        "placeholder": "%&%",
+        "relkey_list": []
+    },
+    "prop_list": [
+        {
+            "id": 14280451,
+            "line": 0,
+            "moduleName": "default",
+            "name": "液晶显示",
+            "value": {
+                "10010": "无",
+                "21528": "有"
+            },
+            "value_list": [
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "name": "无",
+                    "value": "10010"
+                },
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "name": "有",
+                    "value": "21528"
+                }
+            ]
+        },
+        {
+            "id": 2576816,
+            "line": 0,
+            "moduleName": "default",
+            "name": "容量",
+            "value": {
+                "49863": "600ml",
+                "19435662": "500ml以下（含500ml）",
+                "19435663": "500ml-1000ml（含1000ml）",
+                "19435664": "1001ml-1500ml（含1500ml）",
+                "19438241": "1501ml-2000ml（含2000ml）",
+                "19438317": "2001ml以上"
+            },
+            "value_list": [
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "name": "1501ml-2000ml（含2000ml）",
+                    "value": "19438241"
+                },
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "name": "1001ml-1500ml（含1500ml）",
+                    "value": "19435664"
+                },
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "name": "2001ml以上",
+                    "value": "19438317"
+                },
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "name": "500ml-1000ml（含1000ml）",
+                    "value": "19435663"
+                },
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "name": "600ml",
+                    "value": "49863"
+                },
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "name": "500ml以下（含500ml）",
+                    "value": "19435662"
+                }
+            ]
+        },
+        {
+            "id": 122216447,
+            "line": 0,
+            "moduleName": "default",
+            "name": "控制方式",
+            "value": {
+                "67948": "机械式",
+                "3336859": "全自动",
+                "48215679": "电脑式"
+            },
+            "value_list": [
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "name": "电脑式",
+                    "value": "48215679"
+                },
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "name": "机械式",
+                    "value": "67948"
+                },
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "name": "全自动",
+                    "value": "3336859"
+                }
+            ]
+        },
+        {
+            "id": 8369518,
+            "line": 0,
+            "moduleName": "default",
+            "name": "内胆材质",
+            "value": {
+                "27161": "塑料",
+                "42749": "陶瓷",
+                "42750": "玻璃",
+                "42752": "不锈钢"
+            },
+            "value_list": [
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "name": "不锈钢",
+                    "value": "42752"
+                },
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "name": "陶瓷",
+                    "value": "42749"
+                },
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "name": "玻璃",
+                    "value": "42750"
+                },
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "name": "塑料",
+                    "value": "27161"
+                }
+            ]
+        },
+        {
+            "id": 122276243,
+            "line": 0,
+            "moduleName": "default",
+            "name": "是否支持智能分杯",
+            "value": {
+                "33097": "支持",
+                "33098": "不支持"
+            },
+            "value_list": [
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "name": "支持",
+                    "value": "33097"
+                },
+                {
+                    "is_selected": false,
+                    "moduleName": "default",
+                    "name": "不支持",
+                    "value": "33098"
+                }
+            ]
+        }
+    ],
+    "shop_type": [
+        {
+            "is_selected": false,
+            "moduleName": "default",
+            "name": "旗舰店",
+            "value": 1
+        },
+        {
+            "is_selected": false,
+            "moduleName": "default",
+            "name": "专卖店",
+            "value": 2
+        },
+        {
+            "is_selected": false,
+            "moduleName": "default",
+            "name": "专营店",
+            "value": 3
+        }
+    ],
+    "show_chainhint": false,
+    "stop_similar_tag": true,
+    "style": "list",
+    "success": true,
+    "test_key": "ItemShow_0",
+    "total_page": 6,
+    "total_results": 115,
+    "trace_info": {},
+    "userloc": []
+}

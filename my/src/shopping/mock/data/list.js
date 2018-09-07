@@ -1,0 +1,25 @@
+export default [{
+   id:'0',
+   title:'沙发',
+   img:'//img.alicdn.com/imgextra/i4/52201491/TB2DUY1ENWYBuNjy1zkXXXGGpXa_!!0-saturn_solar.jpg_220x220.jpg_.webp',
+   pic:'1180',
+   num:'0'
+},{
+    id:'1',
+    title:'床',
+    img:'//img.alicdn.com/imgextra/i3/57427180/TB2ldJtePgy_uJjSZPxXXanNpXa_!!0-saturn_solar.jpg_220x220.jpg_.webp',
+    pic:'880',
+    num:'0'
+ },{
+    id:'2',
+    title:'座椅',
+    img:'//img.alicdn.com/imgextra/i4/107141821/TB2abpOx29TBuNjy0FcXXbeiFXa_!!0-saturn_solar.jpg_220x220.jpg_.webp',
+    pic:'650',
+    num:'0'
+ },{
+    id:'3',
+    title:'沙发组合',
+    img:'//img.alicdn.com/imgextra/i3/32953221/TB2ntghdrZnBKNjSZFGXXbt3FXa_!!0-saturn_solar.jpg_220x220.jpg_.webp',
+    pic:'1799',
+    num:'0'
+ }]
